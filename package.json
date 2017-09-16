@@ -1,0 +1,28 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Mean Stack App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajeevalochan/My-first-Mean_App.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Application"
+  ],
+  "author": "Rajeevalochan R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajeevalochan/My-first-Mean_App/issues"
+  },
+  "homepage": "https://github.com/Rajeevalochan/My-first-Mean_App#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  }
+}
